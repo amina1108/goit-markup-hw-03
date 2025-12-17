@@ -7,6 +7,15 @@ body {
 
 ul,ol {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 a {
@@ -199,3 +208,4 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+
